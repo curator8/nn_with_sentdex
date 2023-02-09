@@ -1,4 +1,5 @@
 # batch layers and objects.
+# batch refers the amount of data that's going into an neural network
 
 # the bigger the batch the more 
 # parallel operations we can run
