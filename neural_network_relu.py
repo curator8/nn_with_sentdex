@@ -19,6 +19,7 @@ nnfs.init()
 # 100 feature sets of 3 classes 
 X, y = spiral_data(100, 3) 
 
+#this is a new comment
 
 inputs = [[1,2,3,2.5],
           [2.0, 5.0, -1.0, 2.0],
